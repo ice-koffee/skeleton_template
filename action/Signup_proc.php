@@ -16,7 +16,7 @@ require("../controllers/Signup_controller.php");
     $username = $_GET['username'];
     $password = md5($_GET['password']);
 
-    echo $fname;
+    // echo $fname;
 
     $userSignup = insert_usersignup_ctr($fname, $lname, $email, $username, $password);
 
