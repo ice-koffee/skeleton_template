@@ -56,7 +56,7 @@
 								
 								<li><a href="index.php">Home</a>
 								</li>
-								<li><a href="../skeleton_template/view/About.php">About</a></li>
+								<li><a href="../view/About.php">About</a></li>
 								<li><a href="../skeleton_template/view/Contact.php">Contact</a></li>
 								
 							</ul>
