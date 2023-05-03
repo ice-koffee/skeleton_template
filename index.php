@@ -57,7 +57,7 @@
 								<li><a href="index.php">Home</a>
 								</li>
 								<li><a href="../view/About.php">About</a></li>
-								<li><a href="../skeleton_template/view/Contact.php">Contact</a></li>
+								<li><a href="../view/Contact.php">Contact</a></li>
 								
 							</ul>
 						</li>
@@ -83,8 +83,8 @@
 							<p class="subtitle">Recycling Organisation</p>
 							<h1>ReConnect</h1>
 							<div class="hero-btns">
-								<a href="../skeleton_template/view/Login_user.php" class="boxed-btn">Log In</a>
-								<a href="../skeleton_template/view/Signup_user.php" class="bordered-btn">Sign Up</a>
+								<a href="../view/Login_user.php" class="boxed-btn">Log In</a>
+								<a href="../view/Signup_user.php" class="bordered-btn">Sign Up</a>
 							</div>
 						</div>
 					</div>
