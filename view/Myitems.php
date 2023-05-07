@@ -102,7 +102,7 @@ require("../controllers/Myitems_controller.php");
 					<div class="prod-image"><img src="<?php echo $row['image']; ?>" alt=""></div>
 					<div class="prod-desc"> <?php echo $row["itemname"]; ?></div>
 					<div class="prod-box">
-						<div class="prod-price"><?php echo $row["price"]; ?></div>
+						<div class="prod-price"><?php echo 'Price: NGN '.$row["price"]; ?></div>
 
 						<form method="GET" action="../view/Edit_item.php">
 						<a href="../view/Edit_item.php"><button class="buy-button">Edit</button></a>
